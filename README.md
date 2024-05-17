@@ -16,7 +16,7 @@ bash
 Copy code
 pip install pandas google-generativeai cachetools
 Obtain an API key for Google's GenerativeAI API and configure it:
-python
+Python
 Copy code
 import google.generativeai as genai
 genai.configure(api_key="YOUR_API_KEY")
