@@ -14,7 +14,7 @@ Installation
 Install the required libraries:
 bash
 Copy code
-pip install pandas google-generativeai cachetools
+pip install pandas google-generativeai cache tools
 Obtain an API key for Google's GenerativeAI API and configure it:
 Python
 Copy code
